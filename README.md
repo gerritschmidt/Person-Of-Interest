@@ -1,6 +1,6 @@
 # Person-Of-Interest
 
-**FRIST STEP**
+**FRIST STEP**  
 Insert a person with following values:  
 * firstname  
 * lastname
@@ -8,13 +8,13 @@ Insert a person with following values:
 
 ![step 1](https://raw.githubusercontent.com/gerritschmidt/Person-Of-Interest/master/snap1.PNG)  
   
-**SECOND STEP**
+**SECOND STEP**  
 Select a set of data.  
 Choose which dataset you want to delete.
   
 ![step 1](https://raw.githubusercontent.com/gerritschmidt/Person-Of-Interest/master/snap2.PNG)
     
-**THIRD STEP**
+**THIRD STEP**  
 Select a set of data.  
 Check whether the chosen data was deleted successfully.
   
@@ -25,7 +25,7 @@ If there are no more data, the terminal will return an error and the program exi
   
 ![step 1](https://raw.githubusercontent.com/gerritschmidt/Person-Of-Interest/master/snap4.PNG)
     
-**WORK IN PROGRESS**
+**WORK IN PROGRESS**  
 * implement an update function
 * database connection
 * Graphical User Interface (GUI)
